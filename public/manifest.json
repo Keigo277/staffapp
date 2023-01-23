@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Staff App",
+  "name": "Staff App",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,32 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "foodbike001.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "foodbike002.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "foodbike003.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "foodbike1.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "foodbike2.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "foodbike3.png",
       "type": "image/png",
       "sizes": "512x512"
     }
